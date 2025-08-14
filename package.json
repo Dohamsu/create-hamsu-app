@@ -1,0 +1,18 @@
+{
+    "name": "create-hamsu-app",
+    "version": "1.1.0",
+    "description": "Next 14 + React 18 + MUI v6 + Emotion SSR + (public)/(admin) 템플릿 스캐폴딩 CLI",
+    "type": "module",
+    "bin": {
+      "create-hamsu-app": "bin/cli.js"
+    },
+    "keywords": ["nextjs", "react", "mui", "emotion", "scaffold", "admin"],
+    "author": "당신 이름",
+    "license": "MIT",
+    "dependencies": {
+      "execa": "^8.0.1",
+      "kolorist": "^1.8.0",
+      "prompts": "^2.4.2"
+    }
+  }
+  
